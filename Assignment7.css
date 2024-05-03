@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'poppins';
+    src: url(./fonts/Poppins/Poppins-Regular.ttf);
+}
+
+* {
+    font-family: "poppins" !important;
+}
+
+.fa {
+
+    font-family: FontAwesome !important;
+
+}
+
+.background {
+    background-color: rgb(238, 240, 241);
+    margin-top: 4px;
+}
+
+.abc {
+    border-bottom-right-radius: 100px;
+
+}
